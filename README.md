@@ -5,6 +5,6 @@ Uses <openweathermap.org> free API.
 
 ### How to run
 
-`git clone https://github.com/MaxUnlimited101/react-weather-app.git  
-npm install  
-npm start dev`  
+`git clone https://github.com/MaxUnlimited101/react-weather-app.git`  
+`npm install`  
+`npm start dev`  
